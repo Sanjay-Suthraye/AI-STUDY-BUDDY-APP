@@ -6,7 +6,7 @@ with open("requirements.txt") as f:
 setup(
     name="LLMOPS-3",
     version="0.1",
-    author="Sanjay",
+    author="Sanjay.",
     packages=find_packages(),
     install_requires = requirements,
 )
