@@ -28,7 +28,7 @@ Study Buddy AI helps you learn by generating custom quizzes tailored to your nee
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/data-guru0/STUDY-BUDDY-AI.git
+git clone https://github.com/sanjay-suthraye/STUDY-BUDDY-AI.git
 cd STUDY-BUDDY-AI
 ```
 
